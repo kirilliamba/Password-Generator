@@ -8,6 +8,5 @@ def generate_password(length):
 
     return password
 
-# Пример использования
 password = generate_password(22)  # в скобках указываем длину пароля
 # print(f"Сгенерированный пароль: {password}")
